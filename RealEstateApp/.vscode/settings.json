@@ -1,0 +1,16 @@
+{
+    "sqltools.connections": [
+        {
+            "askForPassword": false,
+            "database": "reales_estate",
+            "driver": "PostgreSQL",
+            "name": "postgres_db",
+            "password": "oLUWALO$1000",
+            "port": 5432,
+            "previewLimit": 50,
+            "server": "localhost",
+            "username": "postgres"
+        }
+    ],
+    "sqltools.useNodeRuntime": true
+}
